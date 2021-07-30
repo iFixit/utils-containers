@@ -8,4 +8,5 @@ then
 	build "$@"
 else
 	build sd
+	build rector
 fi
